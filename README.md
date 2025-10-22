@@ -64,6 +64,3 @@ The goal is to forecast potential arrival delays **before departure**, leveragin
 - Test **temporal or sequence-based models** (e.g., RNNs or temporal boosting).  
 - Develop a **REST API or dashboard** for flight delay alerts.
 
----
-
-## Repository Structure
