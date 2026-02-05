@@ -142,5 +142,3 @@ scipy>=1.11.0
 joblib>=1.3.0
 ```
 ---
-
-⭐ If you found this project helpful, please consider giving it a star!
