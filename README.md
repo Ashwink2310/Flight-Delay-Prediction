@@ -24,7 +24,7 @@ This project analyzes over 1.2 million flight records to predict arrival delays 
 - **Visualization**: Matplotlib, Seaborn
 - **Imbalance Handling**: SMOTE (Synthetic Minority Over-sampling)
 
-## 📊 Dataset
+## Dataset
 
 The project uses U.S. Department of Transportation flight data:
 - **Source**: Bureau of Transportation Statistics (BTS)
